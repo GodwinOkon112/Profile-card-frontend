@@ -16,9 +16,10 @@ You are free to use any tools or technologies of your choice to complete the cha
 
 ## Screenshot
 
+<img width="790" height="557" alt="Screenshot 2026-02-04 004119" src="https://github.com/user-attachments/assets/dd80a707-e688-4eae-8d59-0027d9f31b16" />
 
-
-
+## link
+https://profile-card-frontend-axvc.vercel.app/
 
 ## User Requirements
 
@@ -48,6 +49,10 @@ See clear hover and focus states for all interactive elements on the page
 * Improving UI accuracy by closely following design specifications
 * Implementing hover and focus states for accessibility
 * Writing cleaner and more structured CSS
+
+## Author
+
+Godwin okon
 
 
 ## Acknowledgements
