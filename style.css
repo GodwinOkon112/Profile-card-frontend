@@ -31,12 +31,7 @@ a {
   display: block;
 }
 
-main {
-  background-color: var(--Grey-800);
-  border-radius: 0.5rem;
-  width: 350px;
-  /* height: 82vh; */
-}
+
 
 .name {
   color: var(--white);
@@ -87,6 +82,9 @@ main {
   flex-direction: column;
   text-align: center;
   padding: 1.5rem;
+  background-color: var(--Grey-800);
+  border-radius: 0.5rem;
+  width: 350px;
 }
 .profile-image img {
   width: 6.5rem;
@@ -94,3 +92,15 @@ main {
   border-radius: 50%;
   margin-bottom: 1rem;
 }
+
+
+.attribution {
+  font-size: 0.7rem;
+  text-align: center;
+  margin-top: 1rem;
+  color: hsl(0, 0%, 60%);
+  margin-top: 2rem;
+  padding-block: 1rem;
+}
+
+
