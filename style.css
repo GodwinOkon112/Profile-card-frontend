@@ -34,7 +34,7 @@ a {
 main {
   background-color: var(--Grey-800);
   border-radius: 0.5rem;
-  height: 82vh;
+  /* height: 82vh; */
 }
 
 .name {
@@ -72,7 +72,7 @@ main {
   width: 100%;
   border-radius: 0.3rem;
   padding-block: 0.8rem;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: var(--weight-7);
   letter-spacing: 0.05rem;
 }
